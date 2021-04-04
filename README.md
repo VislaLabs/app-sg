@@ -1,1 +1,1 @@
-[App Releases](https://github.com/VislaLabs/app-sg/releases)
+[App Releases](https://github.com/VislaLabs/app-staging/releases)
